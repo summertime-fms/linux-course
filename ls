@@ -1,1 +1,1 @@
-ls -lt
+ls --full-time
