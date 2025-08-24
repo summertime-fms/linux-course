@@ -1,0 +1,2 @@
+export PS1="[\d]\u@\s "
+[Sun Aug 24]max@-bash
